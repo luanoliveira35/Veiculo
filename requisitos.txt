@@ -1,0 +1,40 @@
+Entregar diagrama UML via GitHub até segunda-feira, 16/11.
+Todo o código e o diagrama UML atualizado devem estar no GitHub até o dia 27/11.
+Todas as apresentações no dia 30/11.
+
+
+
+- Pelo menos dois atibutos e dois métodos (não pode ser get e nem set) em cada classe. Usar o static_cast para a máxima reutilização de código;---------------------------------------------------------------------------BELEZA
+SlideOK
+
+
+
+- Todas as classes deve ter construtor de cópia e default; ----------------------------------------------BELEZA
+SlideOK
+
+- Um atributo static e outro const static em uma das classes;--------------------Veiculo Terrestre.h-----BELEZA
+SlideOK
+
+
+- Um método const (não pode ser get) em uma das classes;--------------------------VEiculoTerrestre ------BELEZA
+SlideOK
+
+
+- Um método static em uma das classes. Mostrar o uso dele no main; -----Porta Malas----------------------BELEZA
+SlideOK
+
+
+
+- Duas classes abstratas no topo de duas hierarquias. Uma das hierarquias deve ter três níveis, sendo os dois primeiros níveis com pelo menos uma classe abstrata cada. O terceiro nível deve ter pelo menos três classes concretas;------------------------------------------------------------------------------------------------BELEZA
+SlideOK
+
+
+- Três classes de fora das hierarquias devem ter relação de composição com as classes das hierarquias. Uma delas deve ser a classe Data.-----------------------------------------------------------------------------------BELEZA
+SlideOK
+
+- Usar o vector:
+     a) Dentro de uma das classes da hierarquia;
+     b) No main, no qual deve conter ponteiros de uma das classes abstratas e deve armazenar classes concretas;
+-----------------------------------------------------------------------------------------------------------BELEZA
+
+- Usar dynamic_cast para selecionar durante a execução uma das classes concretas e fazer uma tarefa específica a essa classe.-----------------------------------------------------------------------------------------------BELEZA
